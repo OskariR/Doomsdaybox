@@ -1,0 +1,20 @@
+lcd:
+2,3cm x 7cm (näyttö) (leikkaa tämän kokoinen aukko)
+3,6cm x 8cm (koko osa)
+
+servo:
+1,1cm (leveys)
+3,1cm (pituus)
+3 cm (korkeus)
+
+arduino:
+7,5cm x 5,3 cm
+
+summeri:
+
+1,1cm (läpimitta)
+0,9cm(korkeus)
+
+nappi:
+
+0,6cm x 0,6cm
