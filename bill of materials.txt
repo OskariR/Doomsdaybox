@@ -8,3 +8,4 @@ flex sensor
 servo
 buzzer
 cables
+slide switch
