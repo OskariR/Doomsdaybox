@@ -1,0 +1,10 @@
+Bill of Materials:
+
+Arduino Uno
+4 buttons
+battery holder
+lcd display
+flex sensor
+servo
+buzzer
+cables
