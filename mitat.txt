@@ -1,5 +1,5 @@
 lcd:
-2,3cm x 7cm (n‰yttˆ) (leikkaa t‰m‰n kokoinen aukko)
+2,3cm x 7cm (n√§ytt√∂) (leikkaa t√§m√§n kokoinen aukko)
 3,6cm x 8cm (koko osa)
 
 servo:
@@ -10,9 +10,12 @@ servo:
 arduino:
 7,5cm x 5,3 cm
 
+Arduino w/ plastic casing
+8,1cm x 5,7cm
+
 summeri:
 
-1,1cm (l‰pimitta)
+1,1cm (l√§pimitta)
 0,9cm(korkeus)
 
 nappi:
